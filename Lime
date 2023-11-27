@@ -1,0 +1,11 @@
+{
+    "backgroundColor": "lightgreen",
+    "infoColor": "lightgreen",
+    "cheatList": "lightgreeen",
+    "defaultButton": "lightgreen",
+    "disabledButton": "#A02626",
+    "enabledButton": "#47A547",
+    "textColor": "white",
+    "inputColor": "lightgreenlightgreen",
+    "contentBackground": "lightgreenlightgreen"
+}

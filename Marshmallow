@@ -1,0 +1,11 @@
+{
+    "backgroundColor": "white",
+    "infoColor": "white",
+    "cheatList": "white",
+    "defaultButton": "white",
+    "disabledButton": "#A02626",
+    "enabledButton": "#0b601b",
+    "textColor": "Black",
+    "inputColor": "white",
+    "contentBackground": "white"
+}

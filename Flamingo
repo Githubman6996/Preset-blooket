@@ -1,0 +1,11 @@
+{
+    "backgroundColor": "lightpink",
+    "infoColor": "pink",
+    "cheatList": "pink",
+    "defaultButton": "lightpink",
+    "disabledButton": "#A02626",
+    "enabledButton": "#47A547",
+    "textColor": "white",
+    "inputColor": "lightpinkk",
+    "contentBackground": "lightpinkk"
+}

@@ -1,0 +1,11 @@
+{
+    "backgroundColor": "rgb(255, 255, 255)",
+    "infoColor": "#ff0000",
+    "cheatList": "#00e7ff",
+    "defaultButton": "pink",
+    "disabledButton": "#00ff57",
+    "enabledButton": "#efff00",
+    "textColor": "white",
+    "inputColor": "blue",
+    "contentBackground": "rgb(152,0,76 )"
+}
