@@ -1,0 +1,11 @@
+{
+    "backgroundColor": "linear-gradient(180deg,#9be2fe 0,#67d1fb)",
+    "infoColor": "#c8591e",
+    "cheatList": "#c8591e",
+    "defaultButton": "#ff751a",
+    "disabledButton": "#bf0e0e",
+    "enabledButton": "#2fb62f",
+    "textColor": "white",
+    "inputColor": "rgb(0 0 0 / 25%)",
+    "contentBackground": "radial-gradient(#02b0ea 40%, #1d86ea)"
+}
