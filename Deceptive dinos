@@ -1,0 +1,11 @@
+{
+    "backgroundColor": "radial-gradient(rgba(220, 184, 86, 0), rgba(220, 184, 86, 0.4)), url(\"https://ac.blooket.com/play/111cb7e0ee6607ac3d1a13d534c0e0f1.png\"), #ead49a",
+    "infoColor": "#af8942",
+    "cheatList": "#af8942",
+    "defaultButton": "#af8942",
+    "disabledButton": "#A02626",
+    "enabledButton": "#47A547",
+    "textColor": "white",
+    "inputColor": "rgb(0 0 0 / 10%)",
+    "contentBackground": "radial-gradient(rgba(1,104,162,.6),rgba(24,55,110,.5)),radial-gradient(#2783b4 1.5px,#18376e 0) center / 24px 24px"
+}
